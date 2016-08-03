@@ -1,18 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BC9B138FB329A0AF91F71B33B7FA6DE92E017BE0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808" : 0,
-    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : 0
+    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : 0,
+    "BC9B138FB329A0AF91F71B33B7FA6DE92E017BE0" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F3386D09-6827-42CE-A890-60CC67E3418A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808" : "QLZ_RefreshScrollView\/",
-    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : "QLZ_RefreshScrollView\/"
+    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : "QLZ_RefreshScrollView\/",
+    "BC9B138FB329A0AF91F71B33B7FA6DE92E017BE0" : "QLZ_RefreshScrollView\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "QLZ_RefreshScrollView",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -26,7 +26,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qlz130514988\/QLZ_RefreshScrollView.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC9B138FB329A0AF91F71B33B7FA6DE92E017BE0"
     }
   ]
 }
