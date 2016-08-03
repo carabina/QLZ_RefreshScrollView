@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808" : 0,
+    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F3386D09-6827-42CE-A890-60CC67E3418A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808" : "QLZ_RefreshScrollView\/",
+    "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134" : "QLZ_RefreshScrollView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QLZ_RefreshScrollView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QLZ_RefreshScrollViewDemo\/QLZ_RefreshScrollView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/101.200.171.69\/home\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8b91966a-26ac-4a41-ab9c-eb1c40aef7f2++8134"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qlz130514988\/QLZ_RefreshScrollView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E2D746CC8B0BE1329E1BDCC5AA09A110EAAE808"
+    }
+  ]
+}
